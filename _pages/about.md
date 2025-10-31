@@ -15,35 +15,38 @@ redirect_from:
 ## 🎓 EDUCATION
 
 ### Wuhan University of Technology
-*Sept. 2023 - June 2026 (Expected)*
-* **M.S. in Computer Technology**, School of Computer Science and Artificial Intelligence
-* Supervisor: Prof. Bingyi Liu
+*(Sept. 2023 - June 2026, Expected)*
+M.S. in Computer Technology, School of Computer Science and Artificial Intelligence
+Supervisor: Prof. Bingyi Liu
 
 ### Jiangxi Normal University
-*Sept. 2019 - June 2023*
-* **B.S. in Computer Science and Technology**, School of Computer Science and Engineering
+*(Sept. 2019 - June 2023)*
+B.S. in Computer Science and Technology, School of Computer Science and Engineering
 
 ---
 
 ## 🔬 RESEARCH EXPERIENCE
 
 ### CHDP: Cooperative Hybrid Diffusion Policies for RL in Parameterized Action Space
+
 * **Contribution:** Proposed and implemented the CHDP framework, which models the hybrid action space problem (involving discrete and corresponding continuous actions) as a multi-agent cooperative game.
     * Developed a Dual Diffusion policy to effectively capture multimodal action distributions.
     * Leveraged a novel Q-value-guided codebook to significantly enhance the scalability of the action space.
-* **Publication Status:** Submitted to **AAAI 2026** (CCF-A Conference), rating 7,7,7,6.5. Second author (supervisor as the first author).
+* **Publication Status:** Submitted to AAAI 2026 (CCF-A Conference), rating 7,7,7,6.5. Second author (supervisor as the first author).
 
 ### Task Offloading and Resource Allocation for ICVs in CFNs via Constrained MARL
+
 * **Contribution:** Developed a framework based on Constrained and Action-Representation MARL for collaborative optimization of task offloading and resource allocation in Computing First Networks (CFNs). The research received the Best Paper Award.
-* **Publication Status:** Accepted by **IEEE ISPCE-Asia 2024**. Second author (supervisor as the first author).
+* **Publication Status:** Accepted by IEEE ISPCE-Asia 2024. Second author (supervisor as the first author).
 
 ---
 
 ## 🏆 HONORS & AWARDS
 
-* **First-class Scholarship** (University Level) | *2025*
-* **First Prize (National Level)** | *Dec. 2024*
-    * 10th China Graduate Contest on Smart-City Technology and Creative Design
+* **First-class Scholarship** (University Level)
+    * *2025*
+* **First Prize (National Level)**, 10th China Graduate Contest on Smart-City Technology and Creative Design
+    * *Dec. 2024*
     * *Project: "Collaborative Driving System for Intelligent Connected Vehicle Fleets under an Integrated Network-Computing-Intelligence Architecture"*
 
 ---

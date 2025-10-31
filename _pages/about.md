@@ -8,19 +8,24 @@ redirect_from:
 ---
 
 
-## EDUCATION
-
-### Wuhan University of Technology
-*Sept. 2023 - June 2026 (Expected)*
-School of Computer Science and Artificial Intelligence, **M.S. in Computer Technology** | Supervisor: Prof. Bingyi Liu
-
-### Jiangxi Normal University
-*Sept. 2019 - June 2023*
-School of Computer Science and Engineering, **B.S. in Computer Science and Technology**
+# Jinbo He
 
 ---
 
-## RESEARCH EXPERIENCE
+## 🎓 EDUCATION
+
+### Wuhan University of Technology
+*Sept. 2023 - June 2026 (Expected)*
+* **M.S. in Computer Technology**, School of Computer Science and Artificial Intelligence
+* Supervisor: Prof. Bingyi Liu
+
+### Jiangxi Normal University
+*Sept. 2019 - June 2023*
+* **B.S. in Computer Science and Technology**, School of Computer Science and Engineering
+
+---
+
+## 🔬 RESEARCH EXPERIENCE
 
 ### CHDP: Cooperative Hybrid Diffusion Policies for RL in Parameterized Action Space
 * **Contribution:** Proposed and implemented the CHDP framework, which models the hybrid action space problem (involving discrete and corresponding continuous actions) as a multi-agent cooperative game.
@@ -34,17 +39,16 @@ School of Computer Science and Engineering, **B.S. in Computer Science and Techn
 
 ---
 
-## HONORS & AWARDS
+## 🏆 HONORS & AWARDS
 
-* **First-class Scholarship** (University Level)
-    *2025*
-* **Project: "Collaborative Driving System for Intelligent Connected Vehicle Fleets under an Integrated Network-Computing-Intelligence Architecture"**
-    * **First Prize (National Level)**, 10th China Graduate Contest on Smart-City Technology and Creative Design
-        *Dec. 2024*
+* **First-class Scholarship** (University Level) | *2025*
+* **First Prize (National Level)** | *Dec. 2024*
+    * 10th China Graduate Contest on Smart-City Technology and Creative Design
+    * *Project: "Collaborative Driving System for Intelligent Connected Vehicle Fleets under an Integrated Network-Computing-Intelligence Architecture"*
 
 ---
 
-## FUTURE RESEARCH INTERESTS
+## 💡 FUTURE RESEARCH INTERESTS
 
 1.  **Cooperative Generative Policies for Hybrid-Action Manipulation:** Apply and extend the core principles of my AAAI (CHDP) Reinforcement Learning framework to the domain of contact-rich robotic manipulation. Investigating cooperative methods coupled with generative policies (Diffusion, Flow-based Models) to master the complex hybrid action space. This space includes discrete components like contact points and primitive actions (e.g., grasp, push), and continuous parameters like end-effector pose.
 2.  **Scalable Multi-modal Action Representations:** Investigate fine-grained manipulation tasks involving large-scale discrete action spaces (e.g., numerous potential contact points). I will adapt the Q-value-guided codebook from my CHDP framework, leveraging its proven scalability to overcome the combinatorial explosion and enable more precise manipulation.

@@ -7,7 +7,7 @@
    ========================================================================== */
 
 /* Used to set the size for <em> */
-$doc-font-size              : 16;
+$doc-font-size              : 15;
 
 /* Paragraph indention */
 $paragraph-indent           : false; // true, false (default)
@@ -52,8 +52,8 @@ $caption-font-family        : $serif;
 $small                      : 600px !default;
 $medium                     : 768px !default;
 $medium-wide                : 900px !default;
-$large                      : 925px !default;
-$x-large                    : 1280px !default;
+$large                      : 1280px !default;
+$x-large                    : 1490px !default;
 
 /* ==========================================================================
    Grid
@@ -70,7 +70,7 @@ $susy: (
     math: fluid,
     output: float,
     gutter-position: after,
-    container: $large,
+    container: $x-large,
     global-box-sizing: border-box,
 );
 

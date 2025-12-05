@@ -42,7 +42,7 @@ redirect_from:
 * **稳定协同训练**：引入序贯更新机制，降低多智能体训练中的梯度冲突，实现策略稳定协同进化。
 
 **Task Offloading and Resource Allocation for ICVs in CFNs via Constrained MARL**
-*(ISPCE-Asia 2024🏆 **Best Paper Award**)*
+*(ISPCE-Asia 2024,🏆**Best Paper Award**)*
 * 针对车联网资源受限场景，构建了基于约束和动作表征的多智能体强化学习框架。
 
 ---

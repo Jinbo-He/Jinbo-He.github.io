@@ -36,13 +36,13 @@ redirect_from:
 ## 📝 发表论文 (Publications)
 
 **CHDP: Cooperative Hybrid Diffusion Policies for RL in Parameterized Action Space**
-(**AAAI** 2026,CCF-A)
+(**AAAI** 2026, CCF-A)
 * **协作架构**：构建完全协作博弈模型，提出基于离散与连续扩散策略的协作智能体架构，解耦生成离散与连续动作，精准捕捉复杂的多峰动作分布。
 * **潜空间压缩**：提出 **Q-guided Codebook** (Q值制导码本) 机制，将离散动作空间映射至紧凑潜空间，有效解决维数灾难；引入Q函数指导码本更新，实现了离散与连续动作表征的高效桥接。
 * **稳定协同训练**：引入序贯更新机制，降低多智能体训练中的梯度冲突，实现策略稳定协同进化。
 
 **Task Offloading and Resource Allocation for ICVs in CFNs via Constrained MARL**
-*(ISPCE-Asia 2024,🏆**Best Paper Award**)*
+*(ISPCE-Asia 2024, 🏆**Best Paper Award**)*
 * 针对车联网资源受限场景，构建了基于约束和动作表征的多智能体强化学习框架。
 
 ---

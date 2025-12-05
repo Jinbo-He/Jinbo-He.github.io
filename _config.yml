@@ -10,7 +10,7 @@
 locale                   : "en-US"
 site_theme               : "air" # Currently available options are "default", "air"
 title                    : "Jinbo He"
-title_separator          : "-"
+title_separator          : ""
 name                     : &name ""
 description              : &description "Jinbo He's Homepage"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://jinbo-he.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",

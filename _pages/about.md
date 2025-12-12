@@ -11,21 +11,22 @@ redirect_from:
 
 你好！我是**何金波**。目前是**武汉理工大学**计算机与人工智能学院的硕士研究生（2023 - 2026，预计），师从刘冰艺教授。
 
+目前，我的主要研究兴趣集中在**强化学习 (Reinforcement Learning)** 及其在复杂决策场景中的应用。我致力于构建通用的算法框架，以解决机器人操作任务中极具挑战性的规划与控制问题。目前，我正在申请 2026 年秋季入学的博士学位，期望未来的研究重点聚焦于机器人控制领域，特别是针对**混合动作空间 (Hybrid Action Space)** 下的控制策略研究。
 
-我的主要研究兴趣集中在**强化学习 (Reinforcement Learning)** 及其在复杂决策场景中的应用。我致力于构建通用的算法框架，以解决机器人操作任务中极具挑战性的规划与控制问题。目前，我正在申请 2026 年秋季入学的博士学位，期望未来的研究重点聚焦于机器人控制领域，特别是针对**混合动作空间 (Hybrid Action Space)，即包含离散决策及其对应连续参数的空间**下的控制策略研究。
-
+**工程与系统能力：**
+除了算法研究，我对 **Linux 系统架构与服务部署**有着深入的钻研。为了优化科研协作效率与数据私密性，我利用 **Docker** 容器化技术，在实验室私有服务器上独立部署并维护了 **WandB (Weights & Biases)** 本地化实例与 **Overleaf Community** 协作平台。我具备扎实的 Linux 运维能力，熟悉多卡 **GPU 服务器环境配置 (CUDA/Driver)** 及自动化工作流搭建，致力于构建高效、稳定的科研基础设施。
 
 **我的研究关键词包括：**
 * 强化学习 / 多智能体强化学习 (MARL)
 * 混合动作空间 (Parameterized Action Space)
 * 生成式策略 (Generative Policies)
+* 科研基础设施搭建 (Research Infrastructure)
 
 📧 **Email:** jinbohe@whut.edu.cn
 
 ---
 
 ## 🔥 最新动态 (News)
-
 
 * **[2025.11]** 论文 **"CHDP: Cooperative Hybrid Diffusion Policies for RL in Parameterized Action Space"** 被 **AAAI 2026** (CCF-A) 接收为 Poster！(评分: 7,7,7,6,5)
 * **[2025.09]** 荣获校级一等奖学金。

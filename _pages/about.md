@@ -20,7 +20,6 @@ redirect_from:
 * 强化学习 / 多智能体强化学习 (MARL)
 * 混合动作空间 (Parameterized Action Space)
 * 生成式策略 (Generative Policies)
-* 科研基础设施搭建 (Research Infrastructure)
 
 📧 **Email:** jinbohe@whut.edu.cn
 

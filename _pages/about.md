@@ -46,8 +46,7 @@ redirect_from:
 *(**ISPCE-Asia 2024, 🏆Best Paper Award，学生一作**)*
 * 针对车联网资源受限场景，构建了基于约束和动作表征的多智能体强化学习框架。
 
-**Towards Efficient Task Offloading in Disaster Areas: a Constrained RL-based Approach**
-*(**ICT 2024, 🏆Best Paper Award，本人二作**)*
+
 ---
 
 ## 💻 项目经历 (Projects)
